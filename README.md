@@ -14,10 +14,11 @@
 
 <ul>
 <li>Complementando o projeto desenvolvido anterior (seleção de pessoas), criar uma lanchonete na FATEC (FATEC Way).</li>
-
+<br>
 <li>O programa deve seguir o padrão adotado pela lanchonete SubWay onde o cliente monta seu pedido. Utilize para consulta os seguintes links:</li>
-
+<br>
 <li>Obrigatoriamente deve conter (mínimo, caso queira por mais opções fiquem a vontade):</li>
+<br>
 <ul>
 
 <li>3 opções de carnes (Carne, Frango, Linguiça e Vegetariano)</li>
